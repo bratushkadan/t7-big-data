@@ -20,8 +20,15 @@ pip3 install -r requirements.txt
 ```
 
 
-Запуск заданий 3-7:
+Запуск заданий 7-12:
 
 ```sh
 python3 t7.py
 ```
+
+Запуск заданий *1-3:
+
+```sh
+python3 a1.py
+```
+
